@@ -12,7 +12,7 @@
   
 2. Open the folder in your code editor.
 ### Running the App
-1. Start the React app:
+Start the React app:
    ```bash
    npm start
    ```
